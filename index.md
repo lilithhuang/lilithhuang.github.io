@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-- [ ] Identified
-- [ ] Quantified
-- [ ] Good Linearity
-- [ ] Broad Linear Range
+[ ] Identified
+[ ] Quantified
+[ ] Good Linearity
+[ ] Broad Linear Range
 
 You can use the [editor on GitHub](https://github.com/lilithhuang/lilithhuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
